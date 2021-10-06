@@ -1,1 +1,5 @@
-{"title": "GIF Epiche", "id": "GIF-Epiche", "stickers": [{"body": "CirnoPrismRender", "url": "mxc://matrix.org/taVRYADDDvkPVfTfIbsQjSej", "info": {"w": 206, "h": 179, "size": 19677, "mimetype": "image/png", "thumbnail_url": "mxc://matrix.org/taVRYADDDvkPVfTfIbsQjSej", "thumbnail_info": {"w": 206, "h": 179, "size": 19677, "mimetype": "image/png"}}, "msgtype": "m.sticker", "id": "sha256:af29f73616c3e81f088cedceb2c8e92f8dbbfb2122da9d765229f4271cae1290"}]}
+{
+	"title": "GIF Epiche", "id": "GIF-Epiche", "stickers": [
+		{"body": "CirnoPrismRender.gif", "url": "mxc://matrix.org/TDwNLLmEAFcNbBPZiROqpUxF", "info": {"w": 206, "h": 179, "size": 482200, "mimetype": "image/gif", "thumbnail_url": "mxc://matrix.org/qjoCUPFEwIdmWCDUrxGLfZyE", "thumbnail_info": {"w": 206, "h": 179, "size": 13932, "mimetype": "image/png"}}, "msgtype": "m.image"}
+	]
+}
